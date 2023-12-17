@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niranjan0312
+- 👋 Hi, I’m @tejas
 - 👀 I’m interested in innovative small projects.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python projects
